@@ -1,6 +1,6 @@
 # 🌴 Far Away 🧳 - Travel Packing List
 
-**Live Demo:** https://mohammad-2012.github.io/far-away
+**Live Demo:** https://mohammad-2012.github.io/Far-Away
 
 ---
 
